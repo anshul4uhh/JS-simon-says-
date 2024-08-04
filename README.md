@@ -1,0 +1,3 @@
+# JS Simon says game...
+
+A project which incerease your attention or focus through a game.
